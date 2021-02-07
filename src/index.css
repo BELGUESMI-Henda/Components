@@ -1,0 +1,31 @@
+body{
+    background-color: aqua;
+}
+.img{
+    margin-top: 10px;
+    margin-left: 40%;
+    margin-bottom: 100px;
+}
+.name{
+    display: flex;
+    font-style: italic;
+    align-items: center;
+}
+#first{
+    margin-left: 50px;
+}
+#last{
+    margin-left: 20px;
+}
+.adresse{
+    display: flex;
+    font-style: italic;
+    align-content: center;
+    margin-top: 20px;
+}
+
+#adr{
+    margin-left: 50px;
+}
+#adrs{
+    margin-left: 20px;}
